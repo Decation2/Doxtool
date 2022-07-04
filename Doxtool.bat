@@ -3,6 +3,7 @@ title DoxTool
 echo LOADING ..
 ping localhost -n 5 > nul
 cls
+GOTO :GUI
 :GUI
 set name=0
 echo DoxTool
